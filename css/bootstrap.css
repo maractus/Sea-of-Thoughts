@@ -68,7 +68,9 @@ body {
   text-align: left;
   background-color: #fff;
 }
-
+hr.style1 {
+  border-top: 3px double #8c8b8b;
+}
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
