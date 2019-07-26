@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="211">
@@ -29,13 +29,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeaponoftheWeek.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WeaponoftheWeek.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WeaponoftheWeek.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="67" column="84" lean-forward="false" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="84" />
+            <state relative-caret-position="84">
+              <caret line="76" column="65" lean-forward="false" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#nav#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,9 +119,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="257" />
+    <option name="x" value="-2" />
     <option name="y" value="36" />
-    <option name="width" value="1443" />
+    <option name="width" value="1702" />
     <option name="height" value="903" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -231,18 +232,18 @@
       <workItem from="1525745277067" duration="1727000" />
       <workItem from="1525748230077" duration="15236000" />
       <workItem from="1525771765314" duration="17873000" />
-      <workItem from="1525828113219" duration="10722000" />
+      <workItem from="1525828113219" duration="11388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111378000" />
+    <option name="totallyTimeSpent" value="112044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="257" y="36" width="1443" height="903" extended-state="0" />
+    <frame x="-2" y="36" width="1702" height="903" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07929824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.067102134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39210525" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
@@ -302,6 +303,7 @@
           <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -358,6 +360,7 @@
           <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -414,6 +417,7 @@
           <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -744,19 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="106" column="8" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MonstersoftheWeek.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -778,10 +769,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WeaponoftheWeek.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="67" column="84" lean-forward="false" selection-start-line="67" selection-start-column="74" selection-end-line="67" selection-end-column="84" />
+        <state relative-caret-position="84">
+          <caret line="76" column="65" lean-forward="false" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="106" column="8" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
